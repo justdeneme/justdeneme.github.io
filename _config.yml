@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
+title: ALPER KARTKAYA
+email: alperkartkaya@gmail.com BOGAZICI UNIVERSITY - COMPUTER ENGINEERING UNDERGRAD STUDENT
 author: GitHub User
 
 # Copyright setting
@@ -110,7 +110,7 @@ yat:
 # theme_color: snowwhite
 #
 # Custom color as below:
-# theme_color: "#882250"
+theme_color: "#33FFDD"
 
 # You can choose a brand color
 # Default brand colors as below:
